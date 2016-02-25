@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Amit_Gupta/Documents/Projects/Android/Examples/SensorExample/app/build/intermediates/exploded-aar/SensorExample/com.androidlearning.androidLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0fc7f7bd24b3e5ef24f5af57ae310da23958ee6e">
+        <dex dex="/Users/Amit_Gupta/Documents/Projects/Android/Examples/SensorExample/app/build/intermediates/pre-dexed/debug/classes-4245c93032a3307a547bd7f59dabed6d51de1c48.jar" />
+    </item>
+
+</items>
