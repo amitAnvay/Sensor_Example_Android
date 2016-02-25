@@ -10,6 +10,6 @@ The app lists the available sensors in the application. The app also registers t
 
 > # Screenshots
 
-![Alt text](/app/raw/1.png?raw=true "Home Screen")
-![Alt text](/app/raw/2.png?raw=true "Array Adapter")
+![Alt text](/raw/1.png?raw=true "Home Screen")
+![Alt text](/raw/2.png?raw=true "Array Adapter")
 
