@@ -1,4 +1,4 @@
-# Sensor_Example_Android
+
 The app lists the available sensors in the application. The app also registers to accelerometer and orientation events
 
 # Phone Sensor Test
