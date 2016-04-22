@@ -3,14 +3,11 @@
 
 The app lists the available sensors in the phone and registers to accelerometer and orientation change events
 
-# Phone Sensor Test
-
 - Light Sensor Test
 - Detect Phone Orientation Change 
 - Detech Phone shaked
 - List all the available Sensors
 
-> # Screenshots
 
 
 
