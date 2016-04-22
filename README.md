@@ -1,5 +1,7 @@
 
-The app lists the available sensors in the application. The app also registers to accelerometer and orientation events
+![Alt text](/raw/output_8.gif?raw=true "Home Screen")
+
+The app lists the available sensors in the phone and registers to accelerometer and orientation change events
 
 # Phone Sensor Test
 
@@ -10,6 +12,5 @@ The app lists the available sensors in the application. The app also registers t
 
 > # Screenshots
 
-![Alt text](/raw/1.png?raw=true "Home Screen")
-![Alt text](/raw/2.png?raw=true "Array Adapter")
+
 
